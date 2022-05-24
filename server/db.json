@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Saha",
+      "company": "RakeshSaha",
+      "email": "rakeshsaha87550@gmail.com",
+      "title": "Demo1",
+      "mobile": "9999999999",
+      "photo": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg",
+      "groupId": "1",
+      "id": 1
+    },
+    {
+      "name": "Suman Saha",
+      "company": "SumanSaha",
+      "email": "suman@gmail.com",
+      "title": "Demo2",
+      "mobile": "7894567894",
+      "photo": "https://www.pngkey.com/png/detail/44-448187_download-user-icon-png-clipart-computer-icons-user.png",
+      "groupId": "2",
+      "id": 2
+    },
+    {
+      "name": "Ankita Mohanta",
+      "company": "AnkitaMohanta",
+      "email": "ankita@gmail.com",
+      "title": "Demo3",
+      "mobile": "9874568945",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "groupId": "2",
+      "id": 3
+    },
+    {
+      "name": "Sayantan Saha",
+      "company": "SayantanSaha",
+      "email": "sayantan@gmail.com",
+      "title": "Demo4",
+      "mobile": "9632587418",
+      "photo": "https://truesun.in/wp-content/uploads/2021/08/62681-flat-icons-face-computer-design-avatar-icon.png",
+      "groupId": "3",
+      "id": 4
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
